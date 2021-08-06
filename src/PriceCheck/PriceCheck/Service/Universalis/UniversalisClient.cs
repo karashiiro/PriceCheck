@@ -11,7 +11,7 @@ namespace PriceCheck
     /// <inheritdoc />
     public class UniversalisClient : IUniversalisClient
     {
-        private const string Endpoint = "https://universalis.app/api/";
+        private const string Endpoint = "https://staging.universalis.app/api/";
         private readonly HttpClient httpClient;
 
         /// <summary>
