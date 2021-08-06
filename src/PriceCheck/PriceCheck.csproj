@@ -15,36 +15,36 @@
 	
     <ItemGroup>
         <Reference Include="CheapLoc">
-          <HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\CheapLoc.dll</HintPath>
+          <HintPath>$(AppData)\XIVLauncher\addon\Hooks\5.2.7.0\CheapLoc.dll</HintPath>
           <Private>False</Private>
         </Reference>
         <Reference Include="Dalamud">
-            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\Dalamud.dll</HintPath>
+            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\5.2.7.0\Dalamud.dll</HintPath>
             <Private>False</Private>
         </Reference>
         <Reference Include="ImGui.NET">
-            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\ImGui.NET.dll</HintPath>
+            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\5.2.7.0\ImGui.NET.dll</HintPath>
             <Private>False</Private>
         </Reference>
         <Reference Include="ImGuiScene">
-            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\ImGuiScene.dll</HintPath>
+            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\5.2.7.0\ImGuiScene.dll</HintPath>
             <Private>False</Private>
         </Reference>
         <Reference Include="Lumina">
-            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\Lumina.dll</HintPath>
+            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\5.2.7.0\Lumina.dll</HintPath>
             <Private>False</Private>
         </Reference>
         <Reference Include="Lumina.Excel">
-            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\Lumina.Excel.dll</HintPath>
+            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\5.2.7.0\Lumina.Excel.dll</HintPath>
             <Private>False</Private>
         </Reference>
         <Reference Include="Microsoft.CSharp" />
 				<Reference Include="System.Memory">
-            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\System.Memory.dll</HintPath>
+            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\5.2.7.0\System.Memory.dll</HintPath>
             <Private>False</Private>
         </Reference>
 				<Reference Include="Newtonsoft.Json">
-            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\Newtonsoft.Json.dll</HintPath>
+            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\5.2.7.0\Newtonsoft.Json.dll</HintPath>
             <Private>False</Private>
         </Reference>
 				<Reference Include="System.Net.Http" />
